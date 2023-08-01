@@ -1,4 +1,4 @@
-from prediction import prediction_pipeline
+from modules.prediction import prediction_pipeline
 from fastapi import FastAPI
 import uvicorn
 
